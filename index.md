@@ -56,6 +56,10 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 
 * Bruce Schneier (1996). *Applied Cryptography*. 2nd Edition. Wiley.
 
+* Niels Ferguson, Bruce Schneier, Tadayoshi Kohno (2010). *Cryptography Engineering*. Wiley.
+
+* 
+
 *
 
 * David Wong (2021). *Real-World Cryptography*. Manning.
