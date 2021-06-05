@@ -62,7 +62,7 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 
 * Christof Paar, Jan Pelzl (2010). *Understanding Cryptography*. Springer.
 
-*
+* Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman (2008). *An Introduction to Mathematical Cryptography*. Springer.
 
 * David Wong (2021). *Real-World Cryptography*. Manning.
 
