@@ -60,6 +60,8 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 
 * Seth James Nielson, Christopher K. Monson (202?). *Practical Cryptography in Python*. Apress.
 
+* Christof Paar, Jan Pelzl (2010). *Understanding Cryptography*. Springer.
+
 *
 
 * David Wong (2021). *Real-World Cryptography*. Manning.
