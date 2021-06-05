@@ -25,7 +25,7 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 ### Horario
 <div id='id-horario'/>
 
-* Por definir.
+* Martes y Jueves, de 19:00 a 20:35.
 
 ### Office Hours
 <div id='id-office'/>
@@ -38,7 +38,7 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**/
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       |              | Introducción                                                                   | 
+  01       | 06.07.2021   | Introducción                                                                   | 
   
 
 # Referencias
@@ -50,7 +50,11 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 
 ### Referencias adicionales:
 
-* Por definir.
+* William Easttom (2021). *Modern Cryptography*. Springer.
+
+* Jonathan Katz, Yehuda Lindell (2021). *Introduction to Modern Cryptography*. CRC Press.
+
+*
 
 
 ---
