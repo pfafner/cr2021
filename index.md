@@ -50,7 +50,7 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 
 ### Referencias adicionales:
 
-* Dan Boneh and Victor Shoup (2020). *A Graduate Course in Applied Cryptography*. 
+* Dan Boneh, Victor Shoup (2020). *A Graduate Course in Applied Cryptography*. 
 
 * William Easttom (2021). *Modern Cryptography*. Springer.
 
