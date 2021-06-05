@@ -54,7 +54,12 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 
 * Jonathan Katz, Yehuda Lindell (2021). *Introduction to Modern Cryptography*. CRC Press.
 
+* Bruce Schneier (1996). *Applied Cryptography*. 2nd Edition. Wiley.
+
 *
 
+* David Wong (2021). *Real-World Cryptography*. Manning.
+
+* Jean-Philippe Aumasson (2018). *Serious Cryptography*. No Satarch Press.
 
 ---
