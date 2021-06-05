@@ -58,7 +58,7 @@ También cubriremos algún material sobre distribuciones discretas de probabilid
 
 * Niels Ferguson, Bruce Schneier, Tadayoshi Kohno (2010). *Cryptography Engineering*. Wiley.
 
-* 
+* Seth James Nielson, Christopher K. Monson (202?). *Practical Cryptography in Python*. Apress.
 
 *
 
