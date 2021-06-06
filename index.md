@@ -69,4 +69,8 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 * Jean-Philippe Aumasson (2018). *Serious Cryptography*. No Satarch Press.
 
+### Referencias en teoría de números y matemática discreta:
+
+* M. Rosen (2013). *Elementary Number Theory*.
+
 ---
