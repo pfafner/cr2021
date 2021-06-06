@@ -8,14 +8,13 @@ Descripción.
 
 Se recomienda que los estudiantes antes del curso estén habituados con los temas:
 * Fundamentos (Inducción matemática, teoría básica de conjuntos, propiedades de funciones).
-* Álgebra lineal (matricial)
-* Matemática discreta (conteo, congruencias, recurrencias).
+* Álgebra lineal (matricial).
+* Matemática discreta (conteo, permutaciones, divisibilidad, congruencias, recurrencias).
 * Cálculo (límites, derivadas e integrales).
 * Estadística (probabilidad, distribuciones de probabilidad).
 * Programación en Python
 
-El curso tiene una carga fuerte en el tema de Teoría de Números. Sin embargo, dedicaremos una parte del curso a cubrir los prerrequisitos necesarios en estos temas.
-También cubriremos algún material sobre distribuciones discretas de probabilidad.
+El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea conveniente, dedicaremos una parte del curso a cubrir algunos prerrequisitos necesarios en los temas de divisibilidad y congruencias, También cubriremos algún material sobre permutaciones y distribuciones discretas de probabilidad.
 
 # Programa del curso
 <div id='id-programa'/>
