@@ -71,6 +71,8 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 ### Referencias en teoría de números y matemática discreta:
 
-* M. Rosen (2013). *Elementary Number Theory*.
+* Kenneth Rosen (2011). *Elementary Number Theory*.
+
+* Kenneth Rosen (2013). *Discrete Mathematicas and its Applications*. 
 
 ---
