@@ -6,13 +6,16 @@ Descripción. To be announced.
 
 # Prerrequisitos
 
-Se recomienda que los estudiantes antes del curso estén habituados con los temas:
+Se recomienda que los estudiantes antes del curso estén habituados con los siguientes temas:
 * Fundamentos (Inducción matemática, teoría básica de conjuntos, propiedades de funciones).
 * Álgebra lineal (matricial).
 * Matemática discreta (conteo, permutaciones, divisibilidad, congruencias, recurrencias).
 * Cálculo (límites, derivadas e integrales).
 * Estadística (probabilidad, distribuciones de probabilidad).
-* Programación en Python
+* Programación en Python.
+
+Bastará con haber cursado una materia de cálculo, una de estadística, una de álgebra lineal, y una de mátemática discreta. En el caso de programación, bastará con haber tomado un curso básico de Python, aunque conviene conocet temas de estructuas de datos y algoritmos.
+
 
 El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea conveniente, dedicaremos una parte del curso a cubrir algunos prerrequisitos necesarios en los temas de divisibilidad y congruencias, También cubriremos algún material sobre permutaciones y distribuciones discretas de probabilidad.
 
