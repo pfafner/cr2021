@@ -2,7 +2,7 @@
 
 # Criptografía y Cifrado de la Información 2021
 
-Descripción.
+Descripción. To be announced.
 
 # Prerrequisitos
 
