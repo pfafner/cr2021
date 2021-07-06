@@ -37,9 +37,9 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**/
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 06.07.2021   | Introducción                                                                   | 
+  01       | 08.07.2021   | Introducción                                                                   | 
   
 
 # Referencias
@@ -51,41 +51,30 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 * [N. Smart (2016). *Cryptography Made Simple*.](http://library.lol/main/0BA15B42E21B98223BC711A4CD3564CC){:target="_blank"}
 
-### Referencias adicionales:
-
-* [G. Jones, J. M. Jones (1998). *Elementary Number Theory*.](http://library.lol/main/8D8D1CDA930FFD6693C2D046E5F27331){:target="_blank"}
-
-* [K. Rosen (2011). *Elementary Number Theory and Its Applications*.](http://library.lol/main/4F17982CE43B7BB0AE7543C1946A22DD){:target="_blank"}
-
-* [W. Stein (2009). *Elementary Number Theory: Primes, Congruences and Secrets*.](http://library.lol/main/2ED90C02E93FFBA7BE648FBC0C72BD11){:target="_blank"}
-
-
 
 ### Referencias adicionales:
 
+* [William Easttom (2021). *Modern Cryptography*.](http://library.lol/main/B5DB9B050F1044082F9ED26411AFC68B){:target="_blank"}
 
-* William Easttom (2021). *Modern Cryptography*. Springer.
+* [Jonathan Katz, Yehuda Lindell (2021). *Introduction to Modern Cryptography*](http://library.lol/main/7D5DC1756540342F85FE9E259A27CCDB){:target="_blank"}
 
-* Jonathan Katz, Yehuda Lindell (2021). *Introduction to Modern Cryptography*. CRC Press.
+* [Niels Ferguson, Bruce Schneier, Tadayoshi Kohno (2012). *Cryptography Engineering*. 3rd. Edition.](http://library.lol/main/1AE4E3F764B5DF33684E6F1967247A90){:target="_blank"}
 
-* Bruce Schneier (1996). *Applied Cryptography*. 2nd Edition. Wiley.
+* [Seth James Nielson, Christopher K. Monson (2019). *Practical Cryptography in Python*.](http://library.lol/main/4EDBDF158332CDC1356AEB3A99E3DF68){:target="_blank"}
 
-* Niels Ferguson, Bruce Schneier, Tadayoshi Kohno (2010). *Cryptography Engineering*. Wiley.
+* [Christof Paar, Jan Pelzl (2010). *Understanding Cryptography*.](){:target="_blank"}
 
-* Seth James Nielson, Christopher K. Monson (202?). *Practical Cryptography in Python*. Apress.
+* [Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman (2008). *An Introduction to Mathematical Cryptography*.](){:target="_blank"}
 
-* Christof Paar, Jan Pelzl (2010). *Understanding Cryptography*. Springer.
+* [David Wong (2021). *Real-World Cryptography*.](){:target="_blank"}
 
-* Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman (2008). *An Introduction to Mathematical Cryptography*. Springer.
+* [Jean-Philippe Aumasson (2018). *Serious Cryptography*.](){:target="_blank"}
 
-* David Wong (2021). *Real-World Cryptography*. Manning.
-
-* Jean-Philippe Aumasson (2018). *Serious Cryptography*. No Satarch Press.
 
 ### Referencias en teoría de números y matemática discreta:
 
-* Kenneth Rosen (2011). *Elementary Number Theory*.
+* [Kenneth Rosen (2011). *Elementary Number Theory*.](){:target="_blank"}
 
-* Kenneth Rosen (2013). *Discrete Mathematicas and its Applications*. 
+* [Kenneth Rosen (2013). *Discrete Mathematicas and its Applications*.](){:target="_blank"}
 
 ---
