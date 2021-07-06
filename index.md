@@ -48,11 +48,10 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 ### Textos:
 
-* Por definir.
+* Dan Boneh, Victor Shoup (2020). *A Graduate Course in Applied Cryptography*.
 
 ### Referencias adicionales:
 
-* Dan Boneh, Victor Shoup (2020). *A Graduate Course in Applied Cryptography*. 
 
 * William Easttom (2021). *Modern Cryptography*. Springer.
 
