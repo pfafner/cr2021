@@ -1,8 +1,14 @@
-## *This site is under construction.*
-
 # Criptografía y Cifrado de la Información 2021
 
-Descripción. To be announced.
+Este curso es una introducción al estudio de los métodos de criptografía, criptoanálisis y cifrado de la información, la cual consiste en procesar datos en forma ininteligible, de forma reversible, sin pérdida de información, normalmente de forma digital. Dicho de otra forma, la criptografía es el estudio de cómo alterar un mensaje para que alguien que lo intercepte no pueda leerlo sin el algoritmo y la clave adecuados. En esta materia, estudiaremos de manera introductoria los principales métodos y protocolos actuales de cifrado, así como su implementación computacional.
+
+La primera parte el curso inicia con una revisión histórica de la criptografía, para dar paso rápidamente a los métodos usados en la criptografía actual. Se hace una revisión de conceptos y herramientas básicas sobre los que se fundamentan la mayoría de algoritmos y métodos criptográficos. Se hace un recordatorio breve de conceptos matemáticos útiles como distribuciones discretas de probabilidad, teoría de la información, entropía, y conceptos importantes de la criptografía como seguridad e integrabilidad. \\
+
+\noindent
+Seguidamente, haremos una introducción a los métodos criptográficos simétricos. En particular, se estudian principalmente los métodos de cifrado en flujo (*stream ciphers*), así como los cifrados en bloque (*block ciphers*). Se estudian métodos de integridad de datos, y algunas construcciones clásicas como los sistemas de autenticación de mensajes (MAC). Luego se estudian los métodos asimétricos. Se introduce el concepto de intercambio de claves, y los métodos de cifrado de clave pública y sus aplicaciones. Estudiamos principalmente los protocolos de Diffie-Hellman, el sistema RSA, así como los métodos CCA.
+
+El curso finaliza con una serie de temas avanzados y recientes como la criptografía de curvas elípticas y otros métodos avanzados. Se discuten temas novedosos como las criptomonedas y los métodos de *blockchain*, así como las implicaciones de la computación cuántica para la criptografía.
+
 
 # Prerrequisitos
 
@@ -62,19 +68,19 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 * [Seth James Nielson, Christopher K. Monson (2019). *Practical Cryptography in Python*.](http://library.lol/main/4EDBDF158332CDC1356AEB3A99E3DF68){:target="_blank"}
 
-* [Christof Paar, Jan Pelzl (2010). *Understanding Cryptography*.](){:target="_blank"}
+* [Christof Paar, Jan Pelzl (2010). *Understanding Cryptography*.](http://library.lol/main/AF81CAABE760D15FA77407B09268EA96){:target="_blank"}
 
-* [Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman (2008). *An Introduction to Mathematical Cryptography*.](){:target="_blank"}
+* [Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman (2008). *An Introduction to Mathematical Cryptography*.](http://library.lol/main/025B703D15FBA2AAF6F4750AD959187D){:target="_blank"}
 
-* [David Wong (2021). *Real-World Cryptography*.](){:target="_blank"}
+* [David Wong (2021). *Real-World Cryptography*.](http://library.lol/main/596C1D3C55B73ED374A7FBA8D856589E){:target="_blank"}
 
-* [Jean-Philippe Aumasson (2018). *Serious Cryptography*.](){:target="_blank"}
+* [Jean-Philippe Aumasson (2018). *Serious Cryptography*.](http://library.lol/main/772A00F78F3980BBC8ADCC04BBDC7477){:target="_blank"}
 
 
 ### Referencias en teoría de números y matemática discreta:
 
-* [Kenneth Rosen (2011). *Elementary Number Theory*.](){:target="_blank"}
+* [Kenneth Rosen (2011). *Elementary Number Theory*.](http://library.lol/main/4F17982CE43B7BB0AE7543C1946A22DD){:target="_blank"}
 
-* [Kenneth Rosen (2013). *Discrete Mathematicas and its Applications*.](){:target="_blank"}
+* [Kenneth Rosen (2013). *Discrete Mathematics and its Applications*.](http://library.lol/main/638D5EC2547DEF019458AB88AD39A040){:target="_blank"}
 
 ---
