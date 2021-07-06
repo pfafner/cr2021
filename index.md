@@ -48,9 +48,9 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 ### Textos:
 
-* [D. Boneh, V. Shoup (2020). *A Graduate Course in Applied Cryptography*.](){:target="_blank"}
+* [D. Boneh, V. Shoup (2020). *A Graduate Course in Applied Cryptography*.](http://toc.cryptobook.us/){:target="_blank"}
 
-* [](){:target="_blank"}
+* [N. Smart (2016). *Cryptography Made Simple*.](http://library.lol/main/0BA15B42E21B98223BC711A4CD3564CC){:target="_blank"}
 
 ### Referencias adicionales:
 
