@@ -14,10 +14,10 @@ Se recomienda que los estudiantes antes del curso estén habituados con los sigu
 * Estadística (probabilidad, distribuciones de probabilidad).
 * Programación en Python.
 
-Bastará con haber cursado una materia de cálculo, una de estadística, una de álgebra lineal, y una de mátemática discreta. En el caso de programación, bastará con haber tomado un curso básico de Python, aunque conviene conocet temas de estructuas de datos y algoritmos.
+Bastará con haber cursado una materia de cálculo, una de estadística, una de álgebra lineal, y una de mátemática discreta. En el caso de programación, bastará con haber tomado un curso básico de Python, aunque conviene conocer temas de estructuas de datos y algoritmos.
 
+El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea conveniente, dedicaremos una parte del curso a cubrir algunos prerrequisitos necesarios en los temas de congruencias y aritmética modular. También cubriremos algún material sobre distribuciones discretas de probabilidad.
 
-El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea conveniente, dedicaremos una parte del curso a cubrir algunos prerrequisitos necesarios en los temas de divisibilidad y congruencias, También cubriremos algún material sobre permutaciones y distribuciones discretas de probabilidad.
 
 # Programa del curso
 <div id='id-programa'/>
@@ -48,7 +48,19 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 ### Textos:
 
-* Dan Boneh, Victor Shoup (2020). *A Graduate Course in Applied Cryptography*.
+* [D. Boneh, V. Shoup (2020). *A Graduate Course in Applied Cryptography*.](){:target="_blank"}
+
+* [](){:target="_blank"}
+
+### Referencias adicionales:
+
+* [G. Jones, J. M. Jones (1998). *Elementary Number Theory*.](http://library.lol/main/8D8D1CDA930FFD6693C2D046E5F27331){:target="_blank"}
+
+* [K. Rosen (2011). *Elementary Number Theory and Its Applications*.](http://library.lol/main/4F17982CE43B7BB0AE7543C1946A22DD){:target="_blank"}
+
+* [W. Stein (2009). *Elementary Number Theory: Primes, Congruences and Secrets*.](http://library.lol/main/2ED90C02E93FFBA7BE648FBC0C72BD11){:target="_blank"}
+
+
 
 ### Referencias adicionales:
 
