@@ -7,10 +7,9 @@ Descripción. To be announced.
 # Prerrequisitos
 
 Se recomienda que los estudiantes antes del curso estén habituados con los siguientes temas:
-* Fundamentos (Inducción matemática, teoría básica de conjuntos, propiedades de funciones).
 * Álgebra lineal (matricial).
-* Matemática discreta (conteo, permutaciones, divisibilidad, congruencias, recurrencias).
-* Cálculo (límites, derivadas e integrales).
+* Matemática discreta (conteo, permutaciones, divisibilidad, congruencias).
+* Cálculo (funciones, límites, derivadas).
 * Estadística (probabilidad, distribuciones de probabilidad).
 * Programación en Python.
 
