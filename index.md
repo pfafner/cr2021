@@ -34,7 +34,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 ### Office Hours
 <div id='id-office'/>
 
-* Por definir.
+* Sábados.
 
 
 # Material del curso
