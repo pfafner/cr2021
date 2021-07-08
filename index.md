@@ -57,6 +57,8 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 ### Referencias adicionales:
 
+* [A. Menezes, P. van Oorschot, S. Vanstone (2021). *Handbook of Applied Cryptography*.](http://cacr.uwaterloo.ca/hac/){:target="_blank"}
+
 * [William Easttom (2021). *Modern Cryptography*.](http://library.lol/main/B5DB9B050F1044082F9ED26411AFC68B){:target="_blank"}
 
 * [Jonathan Katz, Yehuda Lindell (2021). *Introduction to Modern Cryptography*](http://library.lol/main/7D5DC1756540342F85FE9E259A27CCDB){:target="_blank"}
