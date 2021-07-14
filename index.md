@@ -43,7 +43,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 08.07.2021   | Introducción. Aspectos generales de la criptografía. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Secciones 1.1 a 1.4, Handbook.
-  02       | 13.07.2021   |                                                                                |  
+  02       | 13.07.2021   | Sistemas de cifrado históricos. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"}  | Secciones 1.1 a 1.4, Handbook.
 
 # Referencias
 <div id='id-ref'/>
