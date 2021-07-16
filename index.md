@@ -44,11 +44,11 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 08.07.2021   | Introducción. Aspectos generales de la criptografía. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Secciones 1.1 a 1.4, Handbook.
   02       | 13.07.2021   | Sistemas de cifrado históricos. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"}  | Capítulos 1 y 2, libro de Easttom.
-  03       | 15.07.2021   |                                                                                | 
+  03       | 15.07.2021   | Lab 1  [Lab 01](labs/Lab01.pdf){:target="_blank"}                              | [cipher1.txt](labs/cipher1.txt){:target="_blank"} [cipher2.txt](labs/cipher2.txt){:target="_blank"} [cipher3.txt](labs/cipher3.txt){:target="_blank"} <br/> [sp_frequencies.txt](labs/sp_frequencies.txt){:target="_blank"}
   
 
 # Referencias
-<div id='id-ref'/>
+<div id='id-ref'/> 
 
 ### Textos:
 
