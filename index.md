@@ -46,7 +46,8 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   02       | 13.07.2021   | Sistemas de cifrado históricos. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"}  | Capítulos 1 y 2, libro de Easttom.
   L1       | 15.07.2021   | Lab 1  [Lab 01](labs/Lab01.pdf){:target="_blank"}                              | [cipher1.txt](labs/cipher1.txt){:target="_blank"} [cipher2.txt](labs/cipher2.txt){:target="_blank"} [cipher3.txt](labs/cipher3.txt){:target="_blank"} <br/> [sp_frequencies.txt](labs/sp_frequencies.txt){:target="_blank"}
   03       | 20.07.2021   | Repaso de probabilidad. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"}    | 
-  .        | 22.07.2021   |                                                                                |
+  L2       | 22.07.2021   | Lab 2                                                                          | [Aula 04](aulas/Aula04.pdf){:target="_blank"} 
+
 
 # Referencias
 <div id='id-ref'/> 
