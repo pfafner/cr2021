@@ -48,6 +48,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   03       | 20.07.2021   | Repaso de probabilidad. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"}    | 
   04       | 22.07.2021   | Repaso de probabilidad II. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
   L2       | 22.07.2021   | Lab 2                                                                          | [Lab 02](labs/Lab02.pdf){:target="_blank"} 
+  .        | 27.07.2021   |                                                                                | 
 
 
 # Referencias
