@@ -49,6 +49,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   04       | 22.07.2021   | Repaso de probabilidad II. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
   L2       | 22.07.2021   | Lab 2                                                                          | [Lab 02](labs/Lab02.pdf){:target="_blank"} 
   05       | 27.07.2021   | One Time Pad. Cifrados de flujo. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
+  06       | 03.08.2021   | Cifrados de flujo II. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"}      |  
   .        |              |                                                                                | 
 
 
