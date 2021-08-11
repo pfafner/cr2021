@@ -51,6 +51,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   05       | 27.07.2021   | One Time Pad. Cifrados de flujo. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
   06       | 03.08.2021   | Cifrados de flujo II. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"}      |  
   L3       | 05.08.2021   | Lab 3                                                                          | [Lab 03](labs/Lab03.pdf){:target="_blank"} <br/> [Imagenes_a_bits.ipynb](labs/Imagenes_a_bits.ipynb){:target="_blank"}
+  07       | 10.08.2021   | Seguridad de PRGs. Test Estadísticos. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | 
   .        |              |                                                                                | 
 
 
