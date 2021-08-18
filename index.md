@@ -53,6 +53,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   L3       | 05.08.2021   | Lab 3                                                                          | [Lab 03](labs/Lab03.pdf){:target="_blank"} <br/> [Imagenes_a_bits.ipynb](labs/Imagenes_a_bits.ipynb){:target="_blank"}
   07       | 10.08.2021   | Seguridad de PRGs. Test Estadísticos. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | 
   L4       | 12.08.2021   | Lab 4                                                                          | [Lab 04](labs/Lab04.pdf){:target="_blank"} <br/>
+  08       | 17.08.2021   | Cifrados de bloque. Redes de Feistel. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
   .        |              |                                                                                | 
 
 
