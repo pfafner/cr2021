@@ -56,7 +56,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   08       | 17.08.2021   | Cifrados de bloque. DES. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
   09       | 19.08.2021   | Cifrados de bloque II. AES. <br/>  [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
   L5       | 19.08.2021   | Lab 5                                                                          | [Lab 05](labs/Lab05.pdf){:target="_blank"} <br/>
-  10       | 24.08.2021   | Integridad de mensajes.                                                        | 
+  10       |              | Integridad de mensajes.                                                        | 
   .        |              |                                                                                | 
 
 
