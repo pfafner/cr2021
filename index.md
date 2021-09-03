@@ -57,6 +57,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   09       | 19.08.2021   | Cifrados de bloque II. AES. <br/>  [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
   L5       | 19.08.2021   | Lab 5                                                                          | [Lab 05](labs/Lab05.pdf){:target="_blank"} <br/>
   10       | 31.08.2021   | Integridad de mensajes. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"}    | 
+  11       | 02.09.2021   | Funciones Hash. SHA-256. HMAC. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | 
   .        |              |                                                                                | 
 
 
