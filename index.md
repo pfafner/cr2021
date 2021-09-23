@@ -60,6 +60,8 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   11       | 02.09.2021   | Funciones Hash. SHA-256. HMAC. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | 
   L6       | 07.09.2021   | Lab 6                                                                          | [Lab 06](labs/Lab06.pdf){:target="_blank"} <br/> [Ejemplos](labs/lab06-ejemplos.ipynb){:target="_blank"}
   12       | 21.09.2021   | Repaso de divisibilidad, MMC, Algoritmo de Euclides. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | 
+  13       |              |                                                                                | 
+  L7       | 23.09.2021   | Lab 7                                                                          | [Lab 07](labs/Lab07.pdf){:target="_blank"}
   .        |              |                                                                                | 
 
 
