@@ -63,6 +63,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   13       | 21.09.2021   | Repaso de aritmética modular. Potenciación binaria. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | 
   14       | 23.09.2021   | Aritmética modular. Función $\varphi$ de Euler. Teorema de Euler-Fermat. Test de Fermat  | [Aula 14](aulas/Aula14.pdf){:target="_blank"}
   L7       | 23.09.2021   | Lab 7                                                                          | [Lab 07](labs/Lab07.pdf){:target="_blank"}
+  15       | 28.09.2021   | Residuos cuadráticos. Orden y raíces primitivas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |
   .        |              |                                                                                | 
 
 
