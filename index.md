@@ -64,7 +64,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   14       | 23.09.2021   | Aritmética modular. Función $\varphi$ de Euler. Teorema de Euler-Fermat. Test de Fermat  | [Aula 14](aulas/Aula14.pdf){:target="_blank"}
   L7       | 23.09.2021   | Lab 7                                                                          | [Lab 07](labs/Lab07.pdf){:target="_blank"}
   15       | 28.09.2021   | Residuos cuadráticos. Orden y raíces primitivas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |
-  16       |              |                                                                                | 
+  16       | 05.10.2021   | Intercambio de claves. Mètodo de Diffie-Hellman. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |
   .        |              |                                                                                | 
 
 
