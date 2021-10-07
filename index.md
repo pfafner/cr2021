@@ -65,6 +65,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   L7       | 23.09.2021   | Lab 7                                                                          | [Lab 07](labs/Lab07.pdf){:target="_blank"}
   15       | 28.09.2021   | Residuos cuadráticos. Orden y raíces primitivas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |
   16       | 05.10.2021   | Intercambio de claves. Mètodo de Diffie-Hellman. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |
+  L8       | 07.10.2021   | Lab 8                                                                          | [Lab 08](labs/Lab08.pdf){:target="_blank"}
   .        |              |                                                                                | 
 
 
