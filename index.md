@@ -80,7 +80,7 @@ Temas ya elegidos:
 -------- | ------------ | ------------------------------------------------------------------------------ 
  5       |              | Cifrado en WhatsApp
  3       |              | VPNs y *Tunneling*
- 4       |              | Cifrado en VPNs
+ 15      |              | Certificados digitales en Guatemala
  2       |              | Seguridad Web
  11 y 12 |              | Blockchain y criptomonedas
 
