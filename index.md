@@ -83,6 +83,8 @@ Temas ya elegidos:
  15      |              | Certificados digitales en Guatemala
  2       |              | Seguridad Web
  11 y 12 |              | Blockchain y criptomonedas
+ 7       |              | Protocolo SSH
+ 8       |              | Protocolos SSL/STL y Https
 
 
 # Referencias
