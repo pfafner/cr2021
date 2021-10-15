@@ -78,10 +78,10 @@ Temas ya elegidos.
 
 **No.**  | **Fecha**    | **Tópicos**                                                                    
 -------- | ------------ | ------------------------------------------------------------------------------ 
-         |              | VPNs
-         |              | Cifrado en VPNs
-         |              | Cifrado en WhastApp
-         |              | Seguridad Web
+ 5       |              | Cifrado en WhastApp
+ 3       |              | VPNs y *Tunneling*
+ 4       |              | Cifrado en VPNs
+ 2       |              | Seguridad Web
 
 
 # Referencias
