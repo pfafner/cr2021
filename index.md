@@ -82,6 +82,7 @@ Temas ya elegidos:
  3       |              | VPNs y *Tunneling*
  4       |              | Cifrado en VPNs
  2       |              | Seguridad Web
+ 11 y 12 |              | Blockchain y criptomonedas
 
 
 # Referencias
