@@ -74,11 +74,11 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](projects/Temas-seminario.pdf){:target="_blank"}
 
-Temas ya elegidos.
+Temas ya elegidos:
 
 **No.**  | **Fecha**    | **Tópicos**                                                                    
 -------- | ------------ | ------------------------------------------------------------------------------ 
- 5       |              | Cifrado en WhastApp
+ 5       |              | Cifrado en WhatsApp
  3       |              | VPNs y *Tunneling*
  4       |              | Cifrado en VPNs
  2       |              | Seguridad Web
