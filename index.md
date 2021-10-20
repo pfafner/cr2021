@@ -86,7 +86,7 @@ Temas ya elegidos:
  11 y 12 |              |              | Blockchain y criptomonedas
  7       |              |              | Protocolo SSH
  8       |              |              | Protocolos SSL/STL y Https
- 6       |              |              | Cifrados en Telefonía Móvil
+ 6       |  Equipo 11   |              | Cifrados en Telefonía Móvil
  9       |              |              | Firewalls
  17      |  Equipo      |              | Criptovirología
  .       |              |              | 
