@@ -80,14 +80,14 @@ Temas ya elegidos:
 **No.**  | **Equipo**   |  **Fecha**   | **Tópicos**                                                                    
 -------- | ------------ | ------------ | ------------------------------------------------------------------------------ 
  5       |  Equipo 3    |              | Cifrado en WhatsApp
- 3       |              |              | VPNs y *Tunneling*
+ 3       |  Equipo 8    |              | VPNs y *Tunneling*
  15      |  Equipo 10   |              | Certificados digitales en Guatemala
  2       |  Equipo 5    |              | Seguridad Web
  11 y 12 |              |              | Blockchain y criptomonedas
- 7       |              |              | Protocolo SSH
- 8       |              |              | Protocolos SSL/STL y Https
+ 7       |  Equipo 2    |              | Protocolo SSH
+ 8       |  Equipo 4    |              | Protocolos SSL/STL y Https
  6       |  Equipo 11   |              | Cifrados en Telefonía Móvil
- 9       |              |              | Firewalls
+ 9       |  Equipo 6    |              | Firewalls
  17      |  Equipo      |              | Criptovirología
  .       |              |              | 
   
