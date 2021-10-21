@@ -68,6 +68,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   L8       | 07.10.2021   | Lab 8                                                                          | [Lab 08](labs/Lab08.pdf){:target="_blank"}
   17       | 14.10.2021   | Cifrados de clave pública. RSA. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
   18       | 19.10.2021   | RSA y ataques a RSA. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"}       | 
+  L9       | 21.10.2021   | Lab 9                                                                          | [Lab 09](labs/Lab09.pdf){:target="_blank"}
   .        |              |                                                                                | 
 
 
