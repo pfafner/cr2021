@@ -72,10 +72,10 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   .        |              |                                                                                | 
 
 
-# Llaves públicas para el Lab 9 
+# Claves públicas para el Lab 9 
 
 
-**Equipo**    | **Llave Pública**    |  **Equipo**    | **Llave Pública**    |  **Equipo**    | **Llave Pública** 
+**Equipo**    | **Clave Pública**    |  **Equipo**    | **Clave Pública**    |  **Equipo**    | **Clave Pública** 
 ------------- | -------------------- | -------------- | -------------------- | -------------- | --------------------- 
  Equipo 1     | MjE0NjE1LjI3MTc0MQ== | Equipo 5       |                      | Equipo 9       |
  Equipo 2     |                      | Equipo 6       |                      | Equipo 10      |
