@@ -78,7 +78,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 **Equipo**    | **Clave Pública**    |  **Equipo**    | **Clave Pública**    |  **Equipo**    | **Clave Pública** 
 ------------- | -------------------- | -------------- | -------------------- | -------------- | --------------------- 
  Equipo 1     | MjE0NjE1LjI3MTc0MQ== | Equipo 5       |                      | Equipo 9       |
- Equipo 2     |                      | Equipo 6       |                      | Equipo 10      |
+ Equipo 2     |                      | Equipo 6       |                      | Equipo 10      | MjE0OS4xMTM1
  Equipo 3     |                      | Equipo 7       |                      | Equipo 11      |
  Equipo 4     |                      | Equipo 8       |                      | Equipo 12      |
 
