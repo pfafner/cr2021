@@ -72,6 +72,17 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   .        |              |                                                                                | 
 
 
+# Llaves públicas para el Lab 9 
+
+
+**Equipo**    | **Llave Pública**    |  **Equipo**    | **Llave Pública**    |  **Equipo**    | **Llave Pública** 
+------------- | -------------------- | -------------- | -------------------- | -------------- | --------------------- 
+ Equipo 1     | MjE0NjE1LjI3MTc0MQ== | Equipo 5       |                      | Equipo 9       |
+ Equipo 2     |                      | Equipo 6       |                      | Equipo 10      |
+ Equipo 3     |                      | Equipo 7       |                      | Equipo 11      |
+ Equipo 4     |                      | Equipo 8       |                      | Equipo 12      |
+
+
 # Seminarios
 
 A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](projects/Temas-seminario.pdf){:target="_blank"}
