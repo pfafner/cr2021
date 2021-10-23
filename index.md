@@ -74,13 +74,14 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 
 # Claves públicas para el Lab 9 
 
-
-**Equipo**    | **Clave Pública**    |  **Equipo**    | **Clave Pública**    |  **Equipo**    | **Clave Pública** 
-------------- | -------------------- | -------------- | -------------------- | -------------- | --------------------- 
- Equipo 1     | MjE0NjE1LjI3MTc0MQ== | Equipo 5       |                      | Equipo 9       |
- Equipo 2     |                      | Equipo 6       |                      | Equipo 10      | MjE0OS4xMTM1
- Equipo 3     |                      | Equipo 7       |                      | Equipo 11      |
- Equipo 4     |                      | Equipo 8       |                      | Equipo 12      |
+**Equipo**    | **Clave Pública**    |  **Equipo**    | **Clave Pública**    
+------------- | -------------------- | -------------- | -------------------- 
+ Equipo 1     | MjE0NjE1LjI3MTc0MQ== | Equipo 7       | 
+ Equipo 2     |                      | Equipo 8       | 
+ Equipo 3     |                      | Equipo 9       | 
+ Equipo 4     |                      | Equipo 10      | MjE0OS4xMTM1         
+ Equipo 5     |                      | Equipo 11      | 
+ Equipo 6     |                      | Equipo 12      | 
 
 
 # Seminarios
