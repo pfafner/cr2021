@@ -77,11 +77,11 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 **Equipo**    | **Clave Pública**    |  **Equipo**    | **Clave Pública**    
 ------------- | -------------------- | -------------- | -------------------- 
  Equipo 1     | MjE0NjE1LjI3MTc0MQ== | Equipo 7       | 
- Equipo 2     | MTM2NjI3LjEzNzkwMw== | Equipo 8       | 
+ Equipo 2     | MTM2NjI3LjEzNzkwMw== | Equipo 8       | MjM4NzAzLjM2MDg3Nw==
  Equipo 3     | MzAzOTk3LjM0NTM4Mw== | Equipo 9       | 
  Equipo 4     | NjE5NTcuODIzMTk=     | Equipo 10      | MjE0OS4xMTM1         
  Equipo 5     | MzQ3NDAyLjc2MjA3OQ== | Equipo 11      | 
- Equipo 6     |                      | Equipo 12      | Mjc4NDcxLjgyOTAyMQ==
+ Equipo 6     | MzEzMTUxLjQxODM2Nw== | Equipo 12      | Mjc4NDcxLjgyOTAyMQ==
 
 
 # Seminarios
