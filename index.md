@@ -69,6 +69,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   17       | 14.10.2021   | Cifrados de clave pública. RSA. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
   18       | 19.10.2021   | RSA y ataques a RSA. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"}       | 
   L9       | 21.10.2021   | Lab 9                                                                          | [Lab 09](labs/Lab09.pdf){:target="_blank"}
+  19       | 26.10.2021   | Cifrado de ElGamal. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"}        | 
   .        |              |                                                                                | 
 
 
