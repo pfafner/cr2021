@@ -70,6 +70,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   18       | 19.10.2021   | RSA y ataques a RSA. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"}       | 
   L9       | 21.10.2021   | Lab 9                                                                          | [Lab 09](labs/Lab09.pdf){:target="_blank"}
   19       | 26.10.2021   | Cifrado de ElGamal. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"}        | 
+  L10      | 02.11.2021   | Lab 10                                                                         | [Lab 10](labs/Lab10.pdf){:target="_blank"}
   .        |              |                                                                                | 
 
 
