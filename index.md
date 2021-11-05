@@ -71,6 +71,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   L9       | 21.10.2021   | Lab 9                                                                          | [Lab 09](labs/Lab09.pdf){:target="_blank"}
   19       | 26.10.2021   | Cifrado de ElGamal. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"}        | 
   L10      | 02.11.2021   | Lab 10                                                                         | [Lab 10](labs/Lab10.pdf){:target="_blank"}
+  20       | 04.11.2021   | Firmas Digitales. Aplicaciones. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
   .        |              |                                                                                | 
 
 
