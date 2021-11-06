@@ -95,18 +95,21 @@ Temas ya elegidos:
 
 **Tema No.**  | **Equipo**   |  **Fecha**   | **Tópicos**                                                                    
 ------------- | ------------ | ------------ | -------------------------------------------------------------- 
- 7            |  Equipo 2    |              | Protocolo SSH
- 5            |  Equipo 3    |              | Cifrado en WhatsApp
- 8            |  Equipo 4    |              | Protocolos SSL/STL y Https
- 2            |  Equipo 5    |              | Seguridad Web
- 9            |  Equipo 6    |              | Firewalls
- 11 y 12      |  Equipo 7    |              | Blockchain y criptomonedas
- 3            |  Equipo 8    |              | VPNs y *Tunneling*
- 17           |  Equipo 9    |              | Criptovirología
- 15           |  Equipo 10   |              | Certificados digitales en Guatemala
- 6            |  Equipo 11   |              | Cifrados en Telefonía Móvil
- 4            |  Equipo 12   |              | Cifrado en VPNs
- 1            |  Equipo 1    |              |  Protocolos de seguridad de redes (TLS, DNSsec)
+ 10           |  Equipo 1    |  16.11.2021  | Protocolos de seguridad de redes (TLS, DNSsec)
+ 9            |  Equipo 6    |  16.11.2021  | Firewalls
+ 7            |  Equipo 2    |  16.11.2021  | Protocolo SSH
+------------- | ------------ | ------------ | -------------------------------------------------------------- 
+ 2            |  Equipo 5    |  18.11.2021  | Seguridad Web
+ 8            |  Equipo 4    |  18.11.2021  | Protocolos SSL/STL y Https
+ 3            |  Equipo 8    |  18.11.2021  | VPNs y *Tunneling*
+------------- | ------------ | ------------ | -------------------------------------------------------------- 
+ 4            |  Equipo 12   |  23.11.2021  | Cifrado en VPNs
+ 5            |  Equipo 3    |  23.11.2021  | Cifrado en WhatsApp
+ 6            |  Equipo 11   |  23.11.2021  | Cifrados en Telefonía Móvil
+------------- | ------------ | ------------ | -------------------------------------------------------------- 
+ 11 y 12      |  Equipo 7    |  25.11.2021  | Blockchain y criptomonedas
+ 17           |  Equipo 9    |  25.11.2021  | Criptovirología
+ 15           |  Equipo 10   |  25.11.2021  | Certificados digitales en Guatemala
   
 
 
