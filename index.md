@@ -106,6 +106,7 @@ Temas ya elegidos:
  15           |  Equipo 10   |              | Certificados digitales en Guatemala
  6            |  Equipo 11   |              | Cifrados en Telefonía Móvil
  4            |  Equipo 12   |              | Cifrado en VPNs
+ 1            |  Equipo 1    |              |  Protocolos de seguridad de redes (TLS, DNSsec)
   
 
 
