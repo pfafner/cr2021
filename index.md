@@ -75,7 +75,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
   21       | 09.11.2021   | Construcción de Firmas Digitales. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
   22       | 16.11.2021   | Presentación de Seminarios.                                                    | 
   23       | 18.11.2021   | Presentación de Seminarios.                                                    | 
-  .        |              |                                                                                | 
+  24       | 23.11.2021   | Presentación de Seminarios.                                                    | 
 
 
 # Claves públicas para el Lab 9 
