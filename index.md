@@ -93,6 +93,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 # Seminarios
 
 A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](projects/Temas-seminario.pdf){:target="_blank"}
+
 Temas a presentar:
 
 **Tema No.**  | **Equipo**   |  **Fecha**   | **Tópicos**                                                                    
