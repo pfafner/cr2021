@@ -98,8 +98,8 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
 Temas a presentar:
 
 **Tema No.**  | **Equipo**   |  **Fecha**   | **Tópicos**                                                                    
-------------- | ------------ | ------------ | ------------------------------------------------- 
- 10           |  Equipo 1    |  16.11.2021  | Protocolos de seguridad de redes (TLS, DNSsec)
+------------- | ------------ | ------------ | -----------------------------------------
+ 10           |  Equipo 1    |  16.11.2021  | Protocolos de seguridad de redes
  9            |  Equipo 6    |  16.11.2021  | Firewalls
  7            |  Equipo 2    |  16.11.2021  | Protocolo SSH
  2            |  Equipo 5    |  18.11.2021  | Seguridad Web
@@ -108,9 +108,9 @@ Temas a presentar:
  4            |  Equipo 12   |  23.11.2021  | Cifrado en VPNs
  5            |  Equipo 3    |  23.11.2021  | Cifrado en WhatsApp
  6            |  Equipo 11   |  23.11.2021  | Cifrados en Telefonía Móvil
- 11 y 12      |  Equipo 7    |  25.11.2021  | Blockchain y criptomonedas
+ 11 y 12      |  Equipo 7    |  25.11.2021  | Blockchain y Criptomonedas
  17           |  Equipo 9    |  25.11.2021  | Criptovirología
- 15           |  Equipo 10   |  25.11.2021  | Certificados digitales en Guatemala
+ 15           |  Equipo 10   |  25.11.2021  | Certificados Digitales en Guatemala
 
 
 # Referencias
