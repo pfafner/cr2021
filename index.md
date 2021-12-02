@@ -100,7 +100,7 @@ Temas a presentar:
 **Tema No.**  | **Equipo**   |  **Fecha**   | **Tópicos**                                                                    
 ------------- | ------------ | ------------ | -----------------------------------------
  10           |  Equipo 1    |  16.11.2021  | Protocolos de seguridad de redes [Presentación](){:target="_blank"}
- 9            |  Equipo 6    |  16.11.2021  | Firewalls
+ 9            |  Equipo 6    |  16.11.2021  | Firewalls [Presentación](){:target="_blank"}
  7            |  Equipo 2    |  16.11.2021  | Protocolo SSH
  2            |  Equipo 5    |  18.11.2021  | Seguridad Web
  8            |  Equipo 4    |  18.11.2021  | Protocolos SSL/STL y Https
