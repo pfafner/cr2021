@@ -110,7 +110,7 @@ Temas a presentar:
  6            |  Equipo 11   |  23.11.2021  | Cifrados en Telefonía Móvil
  11 y 12      |  Equipo 7    |  25.11.2021  | Blockchain y Criptomonedas
  17           |  Equipo 9    |  25.11.2021  | Criptovirología
- 15           |  Equipo 10   |  25.11.2021  | Certificados Digitales en Guatemala
+ 15           |  Equipo 10   |  25.11.2021  | Certificados Digitales en Guatemala [Presentación](){:target="_blank"}
 
 
 # Referencias
