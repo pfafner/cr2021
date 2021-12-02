@@ -107,7 +107,7 @@ Temas a presentar:
  3            |  Equipo 8    |  18.11.2021  | VPNs y *Tunneling* [Presentación](){:target="_blank"}
  4            |  Equipo 12   |  23.11.2021  | Cifrado en VPNs
  5            |  Equipo 3    |  23.11.2021  | Cifrado en WhatsApp
- 6            |  Equipo 11   |  23.11.2021  | Cifrados en Telefonía Móvil
+ 6            |  Equipo 11   |  23.11.2021  | Cifrados en Telefonía Móvil [Presentación](){:target="_blank"}
  11 y 12      |  Equipo 7    |  25.11.2021  | Blockchain y Criptomonedas [Presentación](){:target="_blank"}
  17           |  Equipo 9    |  25.11.2021  | Criptovirología [Presentación](){:target="_blank"}
  15           |  Equipo 10   |  25.11.2021  | Certificados Digitales en Guatemala [Presentación](){:target="_blank"}
