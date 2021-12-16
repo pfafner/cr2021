@@ -34,7 +34,7 @@ El curso tiene una carga fuerte en el tema de Teoría de Números. Cuando sea co
 ### Office Hours
 <div id='id-office'/>
 
-* Viernes, de 18:00 a 20:00.
+* Viernes, de 18:00 a 20:00
 
 
 # Material del curso
